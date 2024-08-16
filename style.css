@@ -1,0 +1,108 @@
+.main-box {
+  background-color: white;
+}
+body {
+  margin: 35px 318px;
+}
+.section-parent {
+  display: flex;
+  justify-content: space-between;
+}
+.right-section {
+  padding: 0 16px;
+}
+.left-section {
+  width: 50%;
+}
+.icon-size {
+  font-size: 35px;
+  margin: 16px 0;
+  padding: 1px 16px;
+}
+.heading {
+  color: #f1f1f1;
+  margin: 35px 0;
+  padding: 0 18px;
+  font-size: 36px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.scnd-heading {
+  color: #757575;
+  margin: 35px 0;
+  padding: 0 18px;
+  font-size: 36px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.third-heading {
+  font-size: 60px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 35px 0;
+}
+.fourth-heading {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #757575;
+  margin: 35px 0;
+  padding: 0 10px;
+}
+.first-paragraph {
+  margin: 84px 0;
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #757575;
+}
+.parent-img {
+  display: flex;
+}
+.left-img {
+  padding: 16px;
+}
+.right-img {
+  padding: 18px;
+}
+.right-img img {
+  height: 700px;
+}
+.img-paragrph {
+  color: #757575;
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 25px;
+}
+.parent-card {
+  display: flex;
+  margin-bottom: 45px;
+}
+.logo-content {
+  display: flex;
+  gap: 15px;
+  margin: 18px;
+}
+.heading_font {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.first-card {
+  background-color: black;
+  color: white;
+  width: 30%;
+  font-size: 22px;
+  padding: 0 16px;
+}
+.scnd-card {
+  background-color: #616161;
+  color: white;
+  width: 30%;
+  font-size: 22px;
+  padding: 0 16px;
+  text-align: center;
+}
+.third_card {
+  background-color: #9e9e9e;
+  color: white;
+  width: 30%;
+  font-size: 22px;
+  padding: 0 16px;
+  text-align: center;
+}
+.location_text {
+  margin-bottom: 25px;
+}
